@@ -1,2 +1,2 @@
-# project-42
-has docked
+# p5.play-boilerplate
+Boiler plate for p5.play
